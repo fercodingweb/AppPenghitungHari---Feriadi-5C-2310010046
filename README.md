@@ -42,10 +42,9 @@ Selain itu, aplikasi ini juga dilengkapi dengan fitur tambahan untuk **menghitun
 **Nama:** Feriadi  
 **NIM:** 2310010046  
 **Kelas:** 5C  
-**Mata Kuliah:** Pemrograman Berorientasi Objek 2  
+**Mata Kuliah:** PBO2  
 
 ---
 
-✨ *“Sederhana tapi bermanfaat — belajar membuat aplikasi dengan logika tanggal dan GUI yang menarik.”*
 
 

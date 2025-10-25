@@ -27,7 +27,8 @@ Selain itu, aplikasi ini juga dilengkapi dengan fitur tambahan untuk **menghitun
 
 ---
 
-## 🖼️ Tampilan Aplikasi<img width="586" height="541" alt="Screenshot 2025-10-25 110625" src="https://github.com/user-attachments/assets/ade97c72-6f57-48e9-bc8f-63aa71b8b52f" />
+## 🖼️ Tampilan Aplikasi
+<img width="586" height="541" alt="Screenshot 2025-10-25 110625" src="https://github.com/user-attachments/assets/ade97c72-6f57-48e9-bc8f-63aa71b8b52f" />
 
 
 
